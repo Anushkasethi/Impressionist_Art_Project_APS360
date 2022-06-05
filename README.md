@@ -1,1 +1,6 @@
-"# APS360" 
+The purpose of this project is to develop and train a machine learning model that can differentiate and classify paintings from the Impressionist to Post-Impressionist eras by the artists that created them. At its final stages, the model should correctly assign an input painting to one of ten influential Impressionist painters: Pissaro, Hassam, Monet, Degas, Matisse, Singer-Sargent, Cezanne, Gauguin, Renoir, and Van Gogh. 
+
+Artists of the Impressionist to Post-Impressionist eras are often associated with artistic styles involving vivid colors and visible brush strokes. To an untrained eye, paintings by different artists from these movements can look very similar. The small nuances and unique styles of these accomplished artists are difficult to grasp for the general public. Being the era that hailed some of the most loved paintings in western culture, many people may recognize Impressionist and Post-Impressionist paintings without knowing their names or artists.
+
+Deep Learning is a suitable approach for art classification due to the complexity behind art. Classification is traditionally a human task, but to be able to recognize a painting’s artist and distinguish their style from a plethora of Impressionists and Post-Impressionists requires a fair amount of experience and training. The utility of deep learning lies in replicating this training process within a model, via feeding a CNN model a large set of paintings as learnable data. 
+
